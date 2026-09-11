@@ -1,0 +1,16 @@
+{
+  "name": "Neon Aura AR",
+  "short_name": "NeonAura",
+  "description": "Advanced Hand Tracking Augmented Reality Experience",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#050510",
+  "theme_color": "#00ffcc",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/1048/1048953.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
